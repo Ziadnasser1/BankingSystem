@@ -1,0 +1,3 @@
+AcccountID                 AccountBalance             Accountname                AccountNumber              AccountStreet              |
+FCAI-1                     5000.000000B                : test                       01111111111                StreetX                    |
+FCAI-2                     4000.000000S                : test2                      022222222222               StreetY                    |
